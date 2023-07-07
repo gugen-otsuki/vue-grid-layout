@@ -179,7 +179,7 @@
                 compact: true,
                 restoreOnDrag: true,
                 rowHeight: 30,
-                colNum: 12,
+                colNum: 24,
                 index: 0,
                 marginX: 10,
                 marginY: 10,
